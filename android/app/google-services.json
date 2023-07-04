@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "974665835419",
+    "project_id": "haki-6ef76",
+    "storage_bucket": "haki-6ef76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974665835419:android:5d7ca899275f2fb64ff73e",
+        "android_client_info": {
+          "package_name": "com.mycompany.hakiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974665835419-g3g32ik9ke9vtpvijof4p5rve745t4a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hakiapp",
+            "certificate_hash": "ff53856573ad20441dcb09f73f5d08a8141964c5"
+          }
+        },
+        {
+          "client_id": "974665835419-iahc9dasftm56sq2kf0ou6o895ve7fr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hakiapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "974665835419-tj73vf3i9sohom2ejtmeb4sl2ocmu1do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hakiapp",
+            "certificate_hash": "90c065d8da17a5006baa3ac6d2ccfe2e8437a791"
+          }
+        },
+        {
+          "client_id": "974665835419-0pt3ok7iakl2ig5j9jaoadv9hb8e9jsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7DVZAC7DY3csPBEdZhloGyalYvWi8ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974665835419-0pt3ok7iakl2ig5j9jaoadv9hb8e9jsn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974665835419-c9gnhtb996cj9046nuogdibir4gamakt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hakiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
